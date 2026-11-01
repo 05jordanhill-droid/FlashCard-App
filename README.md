@@ -4,7 +4,7 @@ My app allows for the utilization and adding of flash card sets. Each flash card
 
 My purpose for writing this program was to help me cultivate and improve my skills in app development, specifically utilizing Android and Kotlin due to how prevalent they are in app development.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/fi_GKEAMzQE)
 
 # Development Environment
 
